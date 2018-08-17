@@ -1,0 +1,22 @@
+# Build Directory
+/build
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Autoasve files
+*.autosave
+
+# pcd, onis and images
+*.pcd
+*.oni
+
+
+# doc
+*.doc/
